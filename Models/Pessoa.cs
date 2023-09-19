@@ -8,6 +8,10 @@ namespace Destruct.Models
     public abstract class Pessoa
     {
         public Pessoa() { }
+        public Pessoa(string nome)
+        {
+            Nome = nome;
+        }
         public Pessoa(string nome, int idade)
         {
             Nome = nome;
