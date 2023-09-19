@@ -4,11 +4,20 @@ using Destruct.Models;
 
 Fisica pf = new Fisica("Samuel", 21, "124.223.092-01");
 
-// pf.Apresentar();
+pf.Apresentar();
+
+var (nomePF, idadePF, cpfPF) = pf;
+
+Console.WriteLine(nomePF);
+Console.WriteLine(cpfPF);
+Console.WriteLine(idadePF);
 
 
-var (nome, idade, cpf) = pf;
+Juridica juridica = new Juridica("EMPRESA DEV JR", "51-421342113/0000.1");
 
-Console.WriteLine(nome);
-Console.WriteLine(cpf);
-Console.WriteLine(idade);
+juridica.Apresentar();
+
+(string nomeJ, string cnpjJ) = juridica;
+
+Console.WriteLine(nomeJ);
+Console.WriteLine(cnpjJ);
