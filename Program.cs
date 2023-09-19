@@ -1,6 +1,6 @@
 ﻿
 
-using Destruct.Models;
+using Deconstruct.Models;
 
 Fisica pf = new Fisica("Samuel", 21, "124.223.092-01");
 

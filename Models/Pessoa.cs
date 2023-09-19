@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Destruct.Models
+namespace Deconstruct.Models
 {
     public abstract class Pessoa
     {
