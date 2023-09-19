@@ -22,9 +22,11 @@ namespace Destruct.Models
             Console.WriteLine($"Idade: {base.Idade}".ToUpper());
         }
 
-        public (string nome, int idade, string cpf) Destruct()
+        public void Deconstruct(out string nome, out int idade, out string cpf)
         {
-            return (Nome, Idade, CPF);
+            nome = Nome;
+            idade = Idade;
+            cpf = CPF;
         }
     }
 }

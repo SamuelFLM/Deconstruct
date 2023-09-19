@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+
+using Destruct.Models;
+
+Fisica pf = new Fisica("Samuel", 21, "124.223.092-01");
+
+pf.Apresentar();
+
+
+var (nome, idade, cpf) = pf;

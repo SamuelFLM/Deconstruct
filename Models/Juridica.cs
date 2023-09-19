@@ -20,9 +20,10 @@ namespace Destruct.Models
             Console.WriteLine($"Empresa: {base.Nome}\n".ToUpper());
         }
 
-        public (string nome, string cnpj) Destruct()
+        public void Deconstruct(out string nome, out string cnjp)
         {
-            return (Nome, CNPJ);
+            nome = Nome;
+            cnjp = CNPJ;
         }
     }
 }

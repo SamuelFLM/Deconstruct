@@ -1,21 +1,13 @@
 <img src="Image/logo.png" alt="logo_samuelflm">
 
 
-# Abstraindo uma operação bancaria Csharp/.NET
+# Destruct .NET
 
-Este projeto é uma abstração de uma operação bancaria, implementado em C#.
+A deconstrução de um objeto é um processo que pode ser considerado o oposto da construção de um objeto.
 
-<img src="Image/desafio.png" alt="logo_samuelflm">
+Enquanto um construtor é usado para inicializar um objeto, a deconstrução é usada para extrair informações importantes de um objeto e transformá-las em variáveis independentes fora da classe.
 
-
-
-Serialização com Newtonsoft.Json
-O projeto utiliza a biblioteca Newtonsoft.Json para serializar os dados da venda do notebook. A serialização é um processo de transformar os dados do objeto em um formato que pode ser armazenado ou transmitido e, em seguida, reconstruído posteriormente.
-
-Aqui está um exemplo de como a serialização é realizada neste projeto:
-
-<img src="Image/result.png" alt="logo_samuelflm">
-
+No entanto, se quisermos extrair essas informações do objeto e usá-las como variáveis independentes, podemos usar a deconstrução.
 
 
 

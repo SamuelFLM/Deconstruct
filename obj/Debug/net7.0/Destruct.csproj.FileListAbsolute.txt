@@ -1,0 +1,5 @@
+C:\Users\Lazer\OneDrive\Área de Trabalho\Destruct\obj\Debug\net7.0\Destruct.csproj.AssemblyReference.cache
+C:\Users\Lazer\OneDrive\Área de Trabalho\Destruct\obj\Debug\net7.0\Destruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lazer\OneDrive\Área de Trabalho\Destruct\obj\Debug\net7.0\Destruct.AssemblyInfoInputs.cache
+C:\Users\Lazer\OneDrive\Área de Trabalho\Destruct\obj\Debug\net7.0\Destruct.AssemblyInfo.cs
+C:\Users\Lazer\OneDrive\Área de Trabalho\Destruct\obj\Debug\net7.0\Destruct.csproj.CoreCompileInputs.cache
