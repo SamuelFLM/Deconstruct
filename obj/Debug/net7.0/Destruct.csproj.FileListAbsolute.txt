@@ -3,3 +3,13 @@ C:\Users\Lazer\OneDrive\Área de Trabalho\Destruct\obj\Debug\net7.0\Destruct.Gen
 C:\Users\Lazer\OneDrive\Área de Trabalho\Destruct\obj\Debug\net7.0\Destruct.AssemblyInfoInputs.cache
 C:\Users\Lazer\OneDrive\Área de Trabalho\Destruct\obj\Debug\net7.0\Destruct.AssemblyInfo.cs
 C:\Users\Lazer\OneDrive\Área de Trabalho\Destruct\obj\Debug\net7.0\Destruct.csproj.CoreCompileInputs.cache
+C:\Users\Lazer\OneDrive\Área de Trabalho\Destruct\bin\Debug\net7.0\Destruct.exe
+C:\Users\Lazer\OneDrive\Área de Trabalho\Destruct\bin\Debug\net7.0\Destruct.deps.json
+C:\Users\Lazer\OneDrive\Área de Trabalho\Destruct\bin\Debug\net7.0\Destruct.runtimeconfig.json
+C:\Users\Lazer\OneDrive\Área de Trabalho\Destruct\bin\Debug\net7.0\Destruct.dll
+C:\Users\Lazer\OneDrive\Área de Trabalho\Destruct\bin\Debug\net7.0\Destruct.pdb
+C:\Users\Lazer\OneDrive\Área de Trabalho\Destruct\obj\Debug\net7.0\Destruct.dll
+C:\Users\Lazer\OneDrive\Área de Trabalho\Destruct\obj\Debug\net7.0\refint\Destruct.dll
+C:\Users\Lazer\OneDrive\Área de Trabalho\Destruct\obj\Debug\net7.0\Destruct.pdb
+C:\Users\Lazer\OneDrive\Área de Trabalho\Destruct\obj\Debug\net7.0\Destruct.genruntimeconfig.cache
+C:\Users\Lazer\OneDrive\Área de Trabalho\Destruct\obj\Debug\net7.0\ref\Destruct.dll
